@@ -87,6 +87,9 @@ void eliminarSerie() {
 
 int main() {
     int opcion;
+    
+    cout<<"Prueba de colaboracion\n\n";
+    
     do {
         cout << "Menu:" << endl;
         cout << "1. Agregar serie" << endl;
